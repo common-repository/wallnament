@@ -1,0 +1,16 @@
+.checkbox-walker ul.children {
+  margin-left: 1.5rem;
+}
+
+#wallnament-settings-form table tr {
+  border-bottom: 1px solid #b9bbb6;
+}
+
+#wallnament-settings-form table th {
+  vertical-align: middle;
+}
+
+#wallnament-settings-form td:nth-child(3) ul {
+  list-style: disc;
+  list-style-position: inside;
+}
